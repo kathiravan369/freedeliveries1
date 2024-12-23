@@ -1,0 +1,53 @@
+.navbar {
+  background: #181818;
+  padding: 10px;
+}
+
+.homeLogoHeading {
+  width: 172px;
+  height: 53px;
+  top: 56px;
+  left: 65px;
+  gap: 0px;
+  font-size: 50px;
+  opacity: 0px;
+}
+.homeLogoImages {
+  position: absolute;
+  left: 5%;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.link {
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  text-decoration: none;
+}
+
+.link.selected {
+  color: #7c472c;
+  font-weight: 600;
+}
+.searchButton {
+  font-family: Inter;
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}

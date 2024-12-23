@@ -1,0 +1,140 @@
+.shopNowButton {
+  padding: 15.59px 40.77px 15.59px 40.77px;
+  gap: 11.99px;
+  border-radius: 18px;
+  opacity: 0px;
+  background-color: #ffcd4f;
+}
+
+.heading {
+  font-family: Inter;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 77px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #fffefc;
+}
+.homePageColour {
+  height: 100%;
+  background-color: black;
+  background-image: url("../../assets/homePageColour.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.couponImage {
+  padding: 10px;
+  height: 100%;
+  background-color: black;
+  background-image: url("../../assets/couponImage.svg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+.fashionShoesContent {
+  padding: 15px;
+}
+
+.fashionShoesTitle {
+  font-family: Inter;
+  font-size: 15.25px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  text-underline-position: from-font;
+}
+
+.fashionShoesHeading {
+  font-family: Inter;
+  font-size: 25.81px;
+  font-weight: 700;
+  line-height: 31.98px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #191919;
+}
+
+.menRunningShoesContent {
+  padding: 15px;
+}
+
+.MenRunningShoesHeading {
+  font-family: Inter;
+  font-size: 14.63px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #191919;
+}
+.MenRunningShoesTitle {
+  font-family: Inter;
+  font-size: 13.75px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #191919;
+}
+
+.walkImages {
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/walkImages.svg");
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-size: 100%;
+}
+
+.womenHeading {
+  font-family: Inter;
+  font-size: 25.81px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #191919;
+}
+
+.stepintostyleImage {
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/stepintostyleImage.svg");
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-size: 100%;
+}
+
+.headingSeason {
+  font-family: PoetsenOne;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 50px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.shopNowButtonBlack {
+  color: #243746;
+  padding: 15.59px 40.77px 15.59px 40.77px;
+  gap: 11.99px;
+  border-radius: 18px;
+  opacity: 0px;
+}
+.homePageShoes {
+  margin-left: 20%;
+}
+
+.homePageShoesImageContent {
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/homePageShoesImageBackground.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px;
+}
